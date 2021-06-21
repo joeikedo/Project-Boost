@@ -18,7 +18,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         ProcessThrust();
-        ProcessRotation();
+        ProcessRotation();//
     }
 
     void ProcessThrust(){
